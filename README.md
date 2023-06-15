@@ -1,0 +1,1 @@
+In this repository, I attempt to do the exercises on simple hell provided on the concept materials. With this I can undertand the concept needed to code my own shell
